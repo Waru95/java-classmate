@@ -9,6 +9,8 @@ import com.fasterxml.classmate.util.ClassKey;
 /**
  * Interface for object that determines handling of annotations in regards
  * to inheritance, overrides.
+ *<p>
+ * Modified for IT5080 DevOps Lab 5 (Waruni, MS26933788) to test Jenkins SCM polling.
  */
 @SuppressWarnings("serial")
 public abstract class AnnotationConfiguration implements Serializable
